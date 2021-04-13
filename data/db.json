@@ -1,0 +1,19 @@
+{
+  "jobs": [
+    {
+      "title": "MQ Exports SEO Manager",
+      "id": 1,
+      "details": "Manages the SEO"
+    },
+    {
+      "title": "MQ Exports Social Media Manager",
+      "id": 2,
+      "details": "Manages the Social Media Presence"
+    },
+    {
+      "title": "MQ Exports App Developer",
+      "id": 3,
+      "details": "Develops the mobile applications"
+    }
+  ]
+}
